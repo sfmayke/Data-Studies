@@ -1,0 +1,15 @@
+{
+  "mado-miniflow@@theme-color": "theme-tea-teal",
+  "mado-miniflow@@toggle-tab-height": true,
+  "mado-miniflow@@toggle-tab-height-stacked": false,
+  "mado-miniflow@@toggle-scrollbar-overlay": true,
+  "mado-miniflow@@toggle-note-header": false,
+  "mado-miniflow@@toggle-sidebar-fixed-left": true,
+  "mado-miniflow@@toggle-sidebar-fixed-right": true,
+  "mado-miniflow@@sidebar-size-left": 270,
+  "mado-miniflow@@toggle-sidebar-left-top": false,
+  "mado-miniflow@@toggle-sidebar-right-top": true,
+  "mado-miniflow@@toggle-wave-background": false,
+  "mado-miniflow@@toggle-tab-design": true,
+  "mado-miniflow@@toggle-note-radius": false
+}

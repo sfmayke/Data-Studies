@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "6c739d95f81af178",
+    "type": "split",
+    "children": [
+      {
+        "id": "6df39b9830f1b8ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f55521fb9cddfab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Hub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b113efc12b73d1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0755195c5f2fc50c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc7775c8d7c93f45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbedac4d90e04a42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62e136681dd85195",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288
+  },
+  "right": {
+    "id": "2865905ddad896e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1020a9e40541d895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e81632dec60998f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Hub.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af2c41a3521e5ee0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Hub.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e07a0f823d8f8a2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d467a1b0777f2ce0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Hub.md"
+              }
+            }
+          },
+          {
+            "id": "1f593d92c298c65a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b37f5ea9cc715659",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "dc7775c8d7c93f45",
+  "lastOpenFiles": [
+    "Permanent Notes/Concatenate Tuples.md",
+    "Permanent Notes/CTE - Common Table Expression.md",
+    "Permanent Notes/Exploratory queries with aggregated results and LIMIT.md",
+    "Permanent Notes/Untitled.md",
+    "Permanent Notes/SQL Window function.md",
+    "Permanent Notes/SQL Performance.md",
+    "Permanent Notes/SQL Partition.md",
+    "Permanent Notes/SQL Perfomance tunning.md",
+    "Permanent Notes/SQL Numeric functions.md",
+    "Permanent Notes/SQL Exploratory Analysis.md",
+    "Permanent Notes/Simplifying SQL Queries.md",
+    "Permanent Notes/Self JOIN.md",
+    "Permanent Notes/Query clauses execution order.md",
+    "Permanent Notes/Remainder JOIN.md",
+    "Templates/Hub.md",
+    "Templates/Zettel.md",
+    "Fleeting Notes/2025-01-27.md",
+    "Fleeting Notes/2024-06-09.md",
+    "Permanent Notes/JOINs Optimization.md",
+    "Permanent Notes/Format String using Unzip.md",
+    "Permanent Notes/Database Scheme.md",
+    "Permanent Notes/Exploratory Queries.md",
+    "Fleeting Notes/2024-05-01.md",
+    "Fleeting Notes/2023-12-13.md",
+    "Fleeting Notes/2024-04-28.md",
+    "Fleeting Notes/2024-01-20.md",
+    "Untitled",
+    "Files/Pasted image 20231204105259.png",
+    "Files/Pasted image 20231202183602.png",
+    "Files/Pasted image 20231128163902.png",
+    "Files",
+    "Literature Notes",
+    "Permanent Notes",
+    "Fleeting Notes",
+    "Daily Notes",
+    "Zettel",
+    "Files/remainder_join.png",
+    "Templates",
+    "test",
+    "Game.canvas"
+  ]
+}
