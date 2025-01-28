@@ -2,5 +2,7 @@
   "obsidian-style-settings",
   "obsidian-admonition",
   "table-editor-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "highlightr-plugin",
+  "tag-wrangler"
 ]

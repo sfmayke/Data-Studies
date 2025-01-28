@@ -1,5 +1,5 @@
 Jan 27 2025 at 10:38
-_Tags: #serverless #sql
+_Tags: #serverless #tsql #synapse #database #azure 
 
 ## Serverless SQL Pools
 ---
