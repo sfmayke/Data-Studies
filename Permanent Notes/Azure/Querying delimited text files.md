@@ -9,7 +9,7 @@ _Tags:_ #tsql #azure #synapse
 - Windows and Unix style line endings.
 - Non-quoted and quoted values, and escaping characters.
 
-Regardless of the type of delimited file you're using, <mark style="background: #ADCCFFA6;">you can read data from them by using the OPENROWSET function with the **csv** FORMAT parameter</mark>, and other parameters as required to handle the specific formatting details for your data. For example:
+Regardless of the type of delimited file you're using, <mark style="background: #ADCCFFA6;">you can read data from them by using the OPENROWSET function with the <b>csv</b> FORMAT parameter</mark>, and other parameters as required to handle the specific formatting details for your data. For example:
 
 ```sql
 SELECT TOP 100 *

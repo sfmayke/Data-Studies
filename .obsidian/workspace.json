@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent Notes/Azure/Encapsulate data transformations in a stored procedure.md",
+                "file": "Permanent Notes/Azure/Create Delta Lake tables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Encapsulate data transformations in a stored procedure"
+              "title": "Create Delta Lake tables"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/Azure/Encapsulate data transformations in a stored procedure.md"
+                "file": "Permanent Notes/Azure/Create Delta Lake tables.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Encapsulate data transformations in a stored procedure"
+              "title": "Outline of Create Delta Lake tables"
             }
           },
           {
@@ -202,16 +202,18 @@
   },
   "active": "adb2fad93f1b7e0f",
   "lastOpenFiles": [
-    "Permanent Notes/Azure/Create external database objects.md",
+    "Permanent Notes/Azure/Querying delimited text files.md",
+    "Permanent Notes/Azure/Query Files.md",
+    "Permanent Notes/Azure/Create Delta Lake tables.md",
+    "Permanent Notes/Azure/Delta Lake.md",
     "Permanent Notes/Azure/Encapsulate data transformations in a stored procedure.md",
+    "Permanent Notes/Azure/Create external database objects.md",
     "Permanent Notes/Azure/Creating an external table.md",
     "Permanent Notes/Azure/Creating an external file format.md",
     "Permanent Notes/Azure/Creating an external data source.md",
-    "Permanent Notes/Azure/Query Files.md",
     "Permanent Notes/Azure/Query partitioned data.md",
     "Permanent Notes/Azure/TSQL External Tables.md",
     "Permanent Notes/Azure/Serveless SQL Pools.md",
-    "Permanent Notes/Azure/Querying delimited text files.md",
     "Permanent Notes/Azure/Querying JSON files.md",
     "Permanent Notes/Azure/Querying Parquet files.md",
     "Permanent Notes/Azure/Specifying the rowset schema.md",
@@ -230,8 +232,6 @@
     "Files/Pasted image 20231204105259.png",
     "Files/Pasted image 20231202183602.png",
     "Fleeting Notes/2024-06-09.md",
-    "Permanent Notes/Exploratory queries with aggregated results and LIMIT.md",
-    "Permanent Notes/SQL Window function.md",
     "Untitled",
     "Files/Pasted image 20231128163902.png",
     "Files",
