@@ -1,5 +1,5 @@
 Jan 29 2025 at 13:42
-_Tags:_
+_Tags:_ #azure #synapse #delta_lake 
 ## Create catalog tables
 ---
 >You can also define Delta Lake tables as catalog tables in the Hive metastore for your Spark pool, and work with them using SQL.
@@ -25,5 +25,5 @@ df.write.format("delta").option("path", "/mydata").saveAsTable("MyExternalTable"
 
 ---
 ##### Relates to
-
+[[Delta Lake]]
 ##### References

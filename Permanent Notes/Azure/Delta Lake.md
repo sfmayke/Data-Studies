@@ -14,5 +14,6 @@ The benefits of using Delta Lake in a Synapse Analytics Spark pool include:
 ---
 ##### Connects to
 [[Create Delta Lake tables]]
+[[Create catalog tables]]
 ##### References
 [Understand Delta Lake - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/use-delta-lake-azure-synapse-analytics/2-understand-delta-lake)

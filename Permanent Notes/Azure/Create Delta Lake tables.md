@@ -35,5 +35,5 @@ new_rows_df.write.format("delta").mode("append").save(delta_table_path)
 ```
 
 ##### Relates to
-
+[[Delta Lake]]
 ##### References
